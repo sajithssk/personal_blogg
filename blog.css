@@ -1,0 +1,82 @@
+.coloured{
+    background-color: white;
+}
+
+.container-fluid{
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.setag{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+.resetio{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-style: italic!important;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+}
+#current .container-fluid{
+    padding: 1% 10% 1%;
+}
+#currentagain .container-fluid{
+    padding: 1% 10% 5%;
+}
+.text1{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    padding: 0%;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.subsleft{
+    text-align: left;
+}
+.subsright{
+    text-align: right;
+}
+.cont{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+.leftkro{
+    text-align: left;
+}
+
+.slide{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+}
+
+.xcv-0, .xcv-1{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.bito{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+}
